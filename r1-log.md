@@ -9,5 +9,6 @@ The log of my #100DaysOfCode challenge. Started on 30/12/17.
 - Forked this 100-days-of-code and Figuring out how to edit a .md file. Again, new to this, but doing it is the best way to learn...
 - Found some links on editing an .md file and on what is forking. Read up on both. Getting a bit more comfortable with this now!
 - Joined the Slack channel for 100xCode
+- Added my first LinkedIn post (about the 100 days challenge, coding and all); again, needed to figure out how to do it!
 
 ### R1D2
