@@ -15,3 +15,5 @@ What a day it's been!! I've actually spent the whole day coding. Even skipped my
 Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was the hardest, but once I figured out how the basic script works the rest was more straightforward. Still had issues with the last one (exercise 9, the aggregation), but finished it today. It's 9.50pm (been coding pretty much since 6am). Quickly do the tweet and that's it. Did a good 12-13 hours mostly straight coding.
 
 ### R1D2
+- Did about 3 hours today (8am till 11am)
+- how-to-npm lessons 1-11 (playing with npm in AWS Cloud9)
