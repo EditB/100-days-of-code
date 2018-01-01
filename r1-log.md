@@ -17,3 +17,7 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 ### R1D2
 - Did about 3 hours today (8am till 11am)
 - how-to-npm lessons 1-11 (playing with npm in AWS Cloud9)
+
+### R1D3
+- Did about 3 hours today (all over the place)
+- how-to-npm lessons 12-16 (playing with npm in AWS Cloud9)
