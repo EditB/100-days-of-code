@@ -21,3 +21,9 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 ### R1D3
 - Did about 3 hours today (all over the place)
 - how-to-npm lessons 12-16 (playing with npm in AWS Cloud9)
+
+### R1D4
+- Did about 2 hours today
+- set up learnyounode on my laptop so that I don't have to waste AWS free tier hours
+- Did lessons 1-4; some of this stuff I already had to figure out with learnyoumongo (+ had to do assynchronious calls with AJAX when did my fcc front end cert) so it went quite well.
+
