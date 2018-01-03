@@ -27,3 +27,7 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 - set up learnyounode on my laptop so that I don't have to waste AWS free tier hours
 - Did lessons 1-4; some of this stuff I already had to figure out with learnyoumongo (+ had to do assynchronious calls with AJAX when did my fcc front end cert) so it went quite well.
 
+### R1D5
+- Did about 2 hours today 
+- learn-you-node lessons 5-6
+- Got stuck at lesson 6, trying to understand how to write node.js modules; still need to tweek the files as it's not working yet. 
