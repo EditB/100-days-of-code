@@ -31,3 +31,10 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 - Did about 2 hours today 
 - learn-you-node lessons 5-6
 - Got stuck at lesson 6, trying to understand how to write node.js modules; still need to tweek the files as it's not working yet. 
+
+### R1D6
+- Really love this 100 days challenge!
+- Got up early, did about 2 hours
+- learn-you-node lessons 6-8
+- Finished lesson 6 and wrote my first nodeJS module. Once figured out how to do a module, the next will be much easier. Just had to fiddle with the right setup with callbacks in both files. Now I understand that you can just write callback and don't need to do function()etc.
+- It felt really easy to do 1 program files after the module, just solving one problem, require a module to help with it.
