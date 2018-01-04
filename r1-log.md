@@ -38,3 +38,7 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 - learn-you-node lessons 6-8
 - Finished lesson 6 and wrote my first nodeJS module. Once figured out how to do a module, the next will be much easier. Just had to fiddle with the right setup with callbacks in both files. Now I understand that you can just write callback and don't need to do function()etc.
 - It felt really easy to do 1 program files after the module, just solving one problem, require a module to help with it.
+
+### R1D7
+- I wish I had more time to just sit and do coding. But as it is school holidays, gotta go home to entertain the kids...
+- Finished only 1 module (lesson8; started on lesson9 but it needs tweaking). Slept in today so could only do 1 hour.
