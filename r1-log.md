@@ -42,3 +42,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 ### R1D7
 - I wish I had more time to just sit and do coding. But as it is school holidays, gotta go home to entertain the kids...
 - Finished only 1 module (lesson8; started on lesson9 but it needs tweaking). Slept in today so could only do 1 hour.
+
+### R1D8
+- Finished lesson 9. Had a late night last night and a very hot (44 degree) day today so my brain was a bit slow. But still sat down and did some coding (an hour and half all up in 2-3 goes)
