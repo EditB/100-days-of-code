@@ -45,3 +45,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D8
 - Finished lesson 9. Had a late night last night and a very hot (44 degree) day today so my brain was a bit slow. But still sat down and did some coding (an hour and half all up in 2-3 goes)
+
+### R1D9
+- Finished lesson 9, started at lesson 10, but got stock on how to call listener several times. How to check when to close connection...
