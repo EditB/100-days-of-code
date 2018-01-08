@@ -48,3 +48,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D9
 - Finished lesson 9, started at lesson 10, but got stock on how to call listener several times. How to check when to close connection...
+
+### R1D10
+- It's late and I'm tired but still finished lesson 10 and 11.
