@@ -51,3 +51,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D10
 - It's late and I'm tired but still finished lesson 10 and 11.
+
+### R1D11
+- Lesson 12: http UPPERCASER (Node JS)
