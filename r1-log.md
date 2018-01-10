@@ -54,3 +54,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D11
 - Lesson 12: http UPPERCASER (Node JS)
+
+### R1D12
+- Lesson 13: But couldn't finish it; still trying to figure out how to go about it. Wrote some of the code but still need to do more resarch on how to send back JSON response to different "exit points" whatever they are...
