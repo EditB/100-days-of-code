@@ -60,3 +60,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D13
 - Finished lesson 13 and moved onto Express.JS! Yeah! Finished Lesson 1 & 2 (and installed expressworks on my laptop). Stuff Cloud 9!
+
+### R1D14
+- Finished Express.js lesson 3-5. Stuck on Lesson 6. Feel too tired to figure it out. But I still did a good hour plus. 
