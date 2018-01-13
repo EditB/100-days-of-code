@@ -63,3 +63,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D14
 - Finished Express.js lesson 3-5. Stuck on Lesson 6. Feel too tired to figure it out. But I still did a good hour plus. 
+
+### R1D15
+- Finished Express.js lesson 6. That's all I did today. Too busy to do more. Still, took me an hour to figure out lesson 6.
