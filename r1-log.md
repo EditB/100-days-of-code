@@ -66,3 +66,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D15
 - Finished Express.js lesson 6. That's all I did today. Too busy to do more. Still, took me an hour to figure out lesson 6.
+
+### R1D16
+- Finished Express.js (lesson 7-8). Ready to start with backend API development projects, but first need to set up Glitch and GitHub.
