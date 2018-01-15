@@ -69,3 +69,8 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D16
 - Finished Express.js (lesson 7-8). Ready to start with backend API development projects, but first need to set up Glitch and GitHub.
+
+### R1D17
+- Set up Glitch and GitHub. Started to code on Glitch. Made a Hello World with current date in Jade (iso html). Setting up the computer as well for glitch/express/mongo nodejs. First will try the API on Glitch, then will probably give it a go on GitHub as well. 
+
+
