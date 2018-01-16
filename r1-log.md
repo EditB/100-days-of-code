@@ -73,4 +73,5 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 ### R1D17
 - Set up Glitch and GitHub. Started to code on Glitch. Made a Hello World with current date in Jade (iso html). Setting up the computer as well for glitch/express/mongo nodejs. First will try the API on Glitch, then will probably give it a go on GitHub as well. 
 
-
+### R1D18
+- Playing with Glitch. Finally figured out how to get blah.com/asdfd (the part after the slash). Now need to find a way to turn a natural time stamp to a unix one (and find different ways to decipher natural language dates, like 2Jan2018 or January the second 2018)?? We shall see. 
