@@ -75,3 +75,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D18
 - Playing with Glitch. Finally figured out how to get blah.com/asdfd (the part after the slash). Now need to find a way to turn a natural time stamp to a unix one (and find different ways to decipher natural language dates, like 2Jan2018 or January the second 2018)?? We shall see. 
+
+### R1D19
+- Still working on Glitch. Trying to figure out how to convert timestamps (unix to natural language and vica versa + null for everything else)
