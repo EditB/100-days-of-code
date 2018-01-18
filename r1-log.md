@@ -78,3 +78,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D19
 - Still working on Glitch. Trying to figure out how to convert timestamps (unix to natural language and vica versa + null for everything else)
+
+### R1D20
+- The project on Glitch is pretty much done. Still want to test it a bit, clean up the code and back it up on GitHub. 
