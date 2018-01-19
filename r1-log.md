@@ -81,3 +81,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D20
 - The project on Glitch is pretty much done. Still want to test it a bit, clean up the code and back it up on GitHub. 
+
+### R1D21
+- Finished up Glitch (Timestamp Microservice). Had to figure out how to link css to index.jade, and finally solved it by adding app.use(express.static('public')); to server.js. Also downloaded the files to my computer and then added them to the GitHub repo as per fcc requirements.
