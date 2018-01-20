@@ -84,3 +84,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D21
 - Finished up Glitch (Timestamp Microservice). Had to figure out how to link css to index.jade, and finally solved it by adding app.use(express.static('public')); to server.js. Also downloaded the files to my computer and then added them to the GitHub repo as per fcc requirements.
+
+### R1D22
+- Finished up the second backend assignment: Request Header Parser Microservice. It was actually pretty straightforward, with only one file (server.js). I probably put a good 4 hours into it today. Had a great run!!! :-))
