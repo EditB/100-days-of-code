@@ -87,3 +87,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D22
 - Finished up the second backend assignment: Request Header Parser Microservice. It was actually pretty straightforward, with only one file (server.js). I probably put a good 4 hours into it today. Had a great run!!! :-))
+
+### R1D23
+- Worked on the URL Shortener (started it yesterday). Also downloaded it to my computer and ran the code there (the initial project is on Glitch)
