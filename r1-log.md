@@ -90,3 +90,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D23
 - Worked on the URL Shortener (started it yesterday). Also downloaded it to my computer and ran the code there (the initial project is on Glitch)
+
+### R1D24
+- Couldn't get much done today; added verification for the URL.
