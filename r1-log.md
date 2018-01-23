@@ -93,3 +93,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D24
 - Couldn't get much done today; added verification for the URL.
+
+### R1D25
+- Worked out the details for the rest of the project. Set up MongoDB on my local environment. Still need to set it up for Glitch.
