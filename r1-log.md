@@ -96,3 +96,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D25
 - Worked out the details for the rest of the project. Set up MongoDB on my local environment. Still need to set it up for Glitch.
+
+### R1D26
+- Not sure if this and the tweet days are in sync... Anyway, today couldn't get much done. Had a long and busy day and got really tired by the evening when I was meant to do the hour of coding. Still did it but couldn't get much done...
