@@ -103,3 +103,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 ### R1D26 - 25/1/18
 - Added the dates into this github doc as I had the feeling that I got out of whack with this numbering and the tweet numbering...
 - Spent the whole day on the url shortening challenge; still working on localhost and was trying to do the mongo, but keep getting errors. Can't find(), can't insert(). Frustrating.
+
+### R1D26 - 26/1/18
+- Not much luck today. Still couldn't work the url validation out (trying the hard way, to see if a url is actually working). So ended up again reverting back to the older version. Probably will just stick with the minimum requirement of validating the url format (like starting with http/https and having a dot in it somewhere). And just do the simple, easy way. And once it's done, then we can do more fancy stuff.
