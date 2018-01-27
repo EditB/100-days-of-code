@@ -44,7 +44,7 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 - Finished only 1 module (lesson8; started on lesson9 but it needs tweaking). Slept in today so could only do 1 hour.
 
 ### R1D8 - 6/1/18
-- Finished lesson 9. Had a late night last night and a very hot (44 degree) day today so my brain was a bit slow. But still sat down and did some coding (an hour and half all up in 2-3 goes)
+- Finished lesson 9. Had a late night last night and a very hot (44 degree Celsius) day today so my brain was a bit slow. But still sat down and did some coding (an hour and half all up in 2-3 goes)
 
 ### R1D9 - 7/1/18
 - Finished lesson 9, started at lesson 10, but got stock on how to call listener several times. How to check when to close connection...
@@ -100,9 +100,16 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 ### R1D26 - 24/1/18
 - Not sure if this and the tweet days are in sync... Anyway, today couldn't get much done. Had a long and busy day and got really tired by the evening when I was meant to do the hour of coding. Still did it but couldn't get much done...
 
-### R1D26 - 25/1/18
+### R1D27 - 25/1/18
 - Added the dates into this github doc as I had the feeling that I got out of whack with this numbering and the tweet numbering...
 - Spent the whole day on the url shortening challenge; still working on localhost and was trying to do the mongo, but keep getting errors. Can't find(), can't insert(). Frustrating.
 
-### R1D26 - 26/1/18
+### R1D28 - 26/1/18
 - Not much luck today. Still couldn't work the url validation out (trying the hard way, to see if a url is actually working). So ended up again reverting back to the older version. Probably will just stick with the minimum requirement of validating the url format (like starting with http/https and having a dot in it somewhere). And just do the simple, easy way. And once it's done, then we can do more fancy stuff.
+
+### R1D29 - 27/1/18
+- Reworked the whole code based on specifications. In other words, just stick with the requirements, keep it very simple, nothing fancy.
+- Added new verification based on specs for the urls format
+- Added insert for the /new/path 
+- Checked the newly added records both in command line and in Mongo Compass. Mongo Compass was very useful because as it turned out, I did create 2 separate dbs, one through command line (urlshortener/urls) and one through Server.js (urls). So whatever I saved through the program didn't show up, and when I was looking for records via the program that I saved in the command line it again didn't show up. Now I know why. Had to modify server.js to point to localhost/urlshrotener/urls (instead of localhost/urls). Now it's working.
+- Indeed, the tweets and this log was out of sync with the day numbers. Fixed it now...
