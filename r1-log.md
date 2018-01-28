@@ -113,3 +113,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 - Added insert for the /new/path 
 - Checked the newly added records both in command line and in Mongo Compass. Mongo Compass was very useful because as it turned out, I did create 2 separate dbs, one through command line (urlshortener/urls) and one through Server.js (urls). So whatever I saved through the program didn't show up, and when I was looking for records via the program that I saved in the command line it again didn't show up. Now I know why. Had to modify server.js to point to localhost/urlshrotener/urls (instead of localhost/urls). Now it's working.
 - Indeed, the tweets and this log was out of sync with the day numbers. Fixed it now...
+
+### R1D30 - 28/1/18
+- A very hot day today. Was hard to work and get things done It's getting late, the code is not working again, and feel too tired to figure out why. I've added more code to generate the shortURL and also to find longURL in the database. The output is not working for some reason (the saving does). It updates the output after the save but then somehow by hte end of hte code it reverts back to an error msg, not sure where it's comming from... Tried to put in console.log()s but still couldn't catch where the value of output changes...
