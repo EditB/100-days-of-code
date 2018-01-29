@@ -116,3 +116,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D30 - 28/1/18
 - A very hot day today. Was hard to work and get things done It's getting late, the code is not working again, and feel too tired to figure out why. I've added more code to generate the shortURL and also to find longURL in the database. The output is not working for some reason (the saving does). It updates the output after the save but then somehow by hte end of hte code it reverts back to an error msg, not sure where it's comming from... Tried to put in console.log()s but still couldn't catch where the value of output changes...
+
+### R1D31 - 29/1/18
+- Finally got around the assync nature of Express.js/MongoDB combination for urlshortener; got the code working; still need to do more testing and very possibly a bit of code review if we can make it prettier. But for now it's a step ahead to get most of it working.
