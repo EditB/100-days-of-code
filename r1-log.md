@@ -119,3 +119,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D31 - 29/1/18
 - Finally got around the assync nature of Express.js/MongoDB combination for urlshortener; got the code working; still need to do more testing and very possibly a bit of code review if we can make it prettier. But for now it's a step ahead to get most of it working.
+
+### R1D32 - 30/1/18
+- Tested the code and found some issues; fixed the issues and implemented parts that weren't there; it's pretty much working now, but still need to change the shorturl generating logic.
