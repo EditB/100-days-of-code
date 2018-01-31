@@ -122,3 +122,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D32 - 30/1/18
 - Tested the code and found some issues; fixed the issues and implemented parts that weren't there; it's pretty much working now, but still need to change the shorturl generating logic.
+
+### R1D33 - 31/1/18
+- Finished the Server.js for URL Shortener. It's ready to be deployed to Glitch. Of course to do that will need to set up MongoDB as well (currently I've been using my local development environment - localhost etc). But I feel I did enough for today (about 2 hours) and I have other commitments so will just have to leave it there for now. Will deploy tomorrow. That's one of the things I've learnt this month (Jan): been way too focused on this project and everything else in my life just had to wait. It's time for a bit more balance, and need to make sure I sleep more so that I can last the distance. So here, I draw the line for 2 hours today. As tempting as it might be to just keep going and ignore everything else....
