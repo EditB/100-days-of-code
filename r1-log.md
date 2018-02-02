@@ -130,3 +130,8 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 - Set up mlab, deployed the code to Glitch.
 - Still found an issue, for the shortURL redirect logic. Will fix it tomorrow.
 - Got to coding too late and since it's getting close to midnight, my brain is pretty slow right now.
+
+### R1D35 - 2/2/18
+- Managed to fit coding into my daytime; so much better than struggling to stay awake and focus near midnight...
+- Fixed up the shortURL redirect issue in Glitch, and also did a code review and deleted what was not needed. The code is shorter and easier to read now.
+- Figured out how to see the changes in GitHub (compared to the previous version). It's really exciting that all this is getting easy and natural now. Really, the more you practice the better you get... 
