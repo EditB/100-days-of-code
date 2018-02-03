@@ -135,3 +135,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 - Managed to fit coding into my daytime; so much better than struggling to stay awake and focus near midnight...
 - Fixed up the shortURL redirect issue in Glitch, and also did a code review and deleted what was not needed. The code is shorter and easier to read now.
 - Figured out how to see the changes in GitHub (compared to the previous version). It's really exciting that all this is getting easy and natural now. Really, the more you practice the better you get... 
+
+### R1D36 - 3/2/18
+- Started on new project (Image Search); set up the basic things for it on Glitch; still need to find an image search API; tried about 3 so far (from node), but they all require you to sign up with Google first. I just want to find one with no pre-requisits. Will probably try a gif search and see how that goes. Spent most afternoon on coding on and off. Or more likely, reading up on requirements and doing searches for API. And just a bit of coding setting up the file and also figuring out how to do the nested JSON.
