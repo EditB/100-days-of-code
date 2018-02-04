@@ -138,3 +138,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D36 - 3/2/18
 - Started on new project (Image Search); set up the basic things for it on Glitch; still need to find an image search API; tried about 3 so far (from node), but they all require you to sign up with Google first. I just want to find one with no pre-requisits. Will probably try a gif search and see how that goes. Spent most afternoon on coding on and off. Or more likely, reading up on requirements and doing searches for API. And just a bit of coding setting up the file and also figuring out how to do the nested JSON.
+
+### R1D37 - 4/2/18
+- Still working on the same project (Img search). Spent a lot of time trying to find an img search API where I don't need to register. Finally settled with a gif one (giphy). Still need to work through the loop to render it in a nested JSON format.
