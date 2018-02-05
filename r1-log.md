@@ -141,3 +141,7 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D37 - 4/2/18
 - Still working on the same project (Img search). Spent a lot of time trying to find an img search API where I don't need to register. Finally settled with a gif one (giphy). Still need to work through the loop to render it in a nested JSON format.
+
+### R1D38 - 5/2/18
+- Getting late again...; fixed the above issue, so the nested JSON renders fine.
+- Also did some jobhunting and Joomla studies.
