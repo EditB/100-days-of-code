@@ -145,3 +145,7 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 ### R1D38 - 5/2/18
 - Getting late again...; fixed the above issue, so the nested JSON renders fine.
 - Also did some jobhunting and Joomla studies.
+
+### R1D39 - 6/2/18
+- Getting late again...
+- Spent most of the morning on setting up Joomla and Wordpress on my laptop (with WampServer and MySQL)
