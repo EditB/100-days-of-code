@@ -156,3 +156,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D41 - 8/2/18
 - Spent most of my day to get the navigation menu working on my Glitch portfolio. Finally managed to tweek the javascript to correctly highlight the menu items in use. Also started to do printscreens of my CodePen projects. Still not finished...
+
+### R1D42 - 9/2/18
+- Not much time for coding today. Spent my hour on Photoshop (taking screenshots of my projects and resizing them for my website). Did quite a few projects, which is nice. But a lot of pics to take and resize...
