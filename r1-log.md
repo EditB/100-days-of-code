@@ -159,3 +159,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D42 - 9/2/18
 - Not much time for coding today. Spent my hour on Photoshop (taking screenshots of my projects and resizing them for my website). Did quite a few projects, which is nice. But a lot of pics to take and resize...
+
+### R1D43 - 10/2/18
+- Busy day, not much got done today. Trying to display my project pics in a grid format. Tried to do it with just HTML and CSS but might have to do it eventually with Bootstrap. Too tired now to make it work though. Should really try to code more during the daytime and just leave the evenings free.
