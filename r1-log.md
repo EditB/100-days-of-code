@@ -162,3 +162,8 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D43 - 10/2/18
 - Busy day, not much got done today. Trying to display my project pics in a grid format. Tried to do it with just HTML and CSS but might have to do it eventually with Bootstrap. Too tired now to make it work though. Should really try to code more during the daytime and just leave the evenings free.
+
+### R1D44 - 11/2/18
+- Another busy day. Weekend with the family and lots of things on. Hard to find time for coding.
+- Read up on responsive web designs. Want to implement them on my website.
+- Spent a lot of time trying to make my glitch code on localhost. Had to change a lot of paths for things to load (incl pictures, but also the javascript and css path and all the other pages' paths...). It's working now, but couldn't get started on implementing the breakpoints for responsive design.
