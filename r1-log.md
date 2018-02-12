@@ -167,3 +167,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 - Another busy day. Weekend with the family and lots of things on. Hard to find time for coding.
 - Read up on responsive web designs. Want to implement them on my website.
 - Spent a lot of time trying to make my glitch code on localhost. Had to change a lot of paths for things to load (incl pictures, but also the javascript and css path and all the other pages' paths...). It's working now, but couldn't get started on implementing the breakpoints for responsive design.
+
+### R1D45 - 12/2/18
+- Finished the basic structure of the grid display for EBProjects. Using float, percentage and breakpoints. Seem to work ok. 
