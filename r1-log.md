@@ -170,3 +170,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D45 - 12/2/18
 - Finished the basic structure of the grid display for EBProjects. Using float, percentage and breakpoints. Seem to work ok. 
+
+### R1D46 - 13/2/18
+- Too tired to do much. Added some more text/pics to the website (my portfolio). Really need to rest up a bit.
