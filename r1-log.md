@@ -173,3 +173,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D46 - 13/2/18
 - Too tired to do much. Added some more text/pics to the website (my portfolio). Really need to rest up a bit.
+
+### R1D47 - 14/2/18
+- Still working on my website. Started to add descriptions to my projects. Still hasn't hooked up all the projects...
