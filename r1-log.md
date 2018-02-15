@@ -176,3 +176,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D47 - 14/2/18
 - Still working on my website. Started to add descriptions to my projects. Still hasn't hooked up all the projects...
+
+### R1D48 - 15/2/18
+- Still working on the website. Added more photos/descriptions. And yes, still more to go.
