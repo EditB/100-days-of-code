@@ -179,3 +179,7 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D48 - 15/2/18
 - Still working on the website. Added more photos/descriptions. And yes, still more to go.
+
+### R1D49 - 16/2/18
+- Almost halfway through. Watched a Selenium/Java tutorial. Should get back to it as well.
+- Still building my website, started to hook up the glitch projects (the codepen part is pretty much done).
