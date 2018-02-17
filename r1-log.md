@@ -183,3 +183,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 ### R1D49 - 16/2/18
 - Almost halfway through. Watched a Selenium/Java tutorial. Should get back to it as well.
 - Still building my website, started to hook up the glitch projects (the codepen part is pretty much done).
+
+### R1D50 - 17/2/18
+- Created pretty cool stick-it notes for the projects I've been doing. Looks good and was pretty easy based on the help that's on the web. Mainly CSS. Spent the whole day on it...
