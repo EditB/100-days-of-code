@@ -186,3 +186,7 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D50 - 17/2/18
 - Created pretty cool stick-it notes for the projects I've been doing. Looks good and was pretty easy based on the help that's on the web. Mainly CSS. Spent the whole day on it...
+
+### R1D51 - 18/2/18
+- Added some new photos/descriptions to my website. It's looking pretty good. Will deploy it to Glitch tomorrow.
+- Also looked into creating a mobile app with Java. Want to re-create Giraffe so that it's cross-platform.
