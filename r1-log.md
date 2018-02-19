@@ -190,3 +190,6 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 ### R1D51 - 18/2/18
 - Added some new photos/descriptions to my website. It's looking pretty good. Will deploy it to Glitch tomorrow.
 - Also looked into creating a mobile app with Java. Want to re-create Giraffe so that it's cross-platform.
+
+### R1D52 - 19/2/18
+- Finished my Glitch EBportfolio webpage. Also uploaded the CodePen projects to GitHub. Should have done it when I was working on the projects, it's easier to keep track of versions. But now if I do a code review I can just check it in on top of it.
