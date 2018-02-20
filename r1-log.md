@@ -193,3 +193,7 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D52 - 19/2/18
 - Finished my Glitch EBportfolio webpage. Also uploaded the CodePen projects to GitHub. Should have done it when I was working on the projects, it's easier to keep track of versions. But now if I do a code review I can just check it in on top of it.
+
+### R1D53 - 20/2/18
+- Spent the whole day reading up on Java and Selenium
+- Fired up Eclipse again. Planning to do Giraffe (my music teacher's app for iOS) in Java (so that it can be used on Android as well). But still need to read up on how to do mobile app on Eclipse with Java. Found a tutorial for it. Will do more tomorrow.
