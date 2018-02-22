@@ -197,3 +197,9 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 ### R1D53 - 20/2/18
 - Spent the whole day reading up on Java and Selenium
 - Fired up Eclipse again. Planning to do Giraffe (my music teacher's app for iOS) in Java (so that it can be used on Android as well). But still need to read up on how to do mobile app on Eclipse with Java. Found a tutorial for it. Will do more tomorrow.
+
+### R1D54 - 21/2/18
+- Looks like forgot to update yesterday; was working again on imagesearch project (doing it on localhost; added in the data from the url - the search word and the offset - and get the gifs based on that)
+
+### R1D55 - 22/2/18
+- Still working on the imagesearch; started to add in MongoDB stuff (and had to refresh my memory on how to run mongodb locally). It's all back on track. Saving the search words+date is done, but still need to add the part that find the last 10 record and displays it. Something to do tomorrow...
