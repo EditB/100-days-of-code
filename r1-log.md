@@ -203,3 +203,4 @@ Finished the learnyoumongo set from free code camp. Lessons 3-9. The 3rd one was
 
 ### R1D55 - 22/2/18
 - Still working on the imagesearch; started to add in MongoDB stuff (and had to refresh my memory on how to run mongodb locally). It's all back on track. Saving the search words+date is done, but still need to add the part that find the last 10 record and displays it. Something to do tomorrow...
+Also, getting much more comfortable using the git command line. Initally I was just uploading the files manually, but now I can push from the command line. Also did a pull just to practice. It feels good how much more confidence I develop day by day. Reallly grateful for Kallaway to come up with this project.
