@@ -207,3 +207,6 @@ Also, getting much more comfortable using the git command line. Initally I was j
 
 ### R1D56 - 23/2/18
 - Started to implement the latest search part of the project. I was looking for ways to do it, but then finally just got back to my old mongo notes, and there it was. I should just spend a day writing up my notes properly and memorising them. Even if I spend several days on it it would be a really good investment of my time...
+
+### R1D57 - 24/2/18
+- Finished the image-search project. 
