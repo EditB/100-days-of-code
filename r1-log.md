@@ -210,3 +210,6 @@ Also, getting much more comfortable using the git command line. Initally I was j
 
 ### R1D57 - 24/2/18
 - Finished the image-search project. 
+
+### R1D58 - 25/2/18
+- Bought a domain name, set up hosting and a wordpress website. Busy day with the family.
