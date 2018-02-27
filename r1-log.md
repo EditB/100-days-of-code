@@ -213,3 +213,9 @@ Also, getting much more comfortable using the git command line. Initally I was j
 
 ### R1D58 - 25/2/18
 - Bought a domain name, set up hosting and a wordpress website. Busy day with the family.
+
+## R1D59 - 26/2/18
+- I was too tired to bother with the log yesterday. Still worked on the website (mywebportfolio.tech), trying to figure out the right size of picture to display correctly (as the resizing option doesn't seem to work). So ended up manually fidgeting with the pics for the main page display.
+
+## R1D60 - 27/2/18
+- Worked on mywebportfolio.tech. Fixed up the little displayed images for the projects on the front page (the wordpress logo took ages to resize so that it gets the folded up effect with the little circle it's in). But it's done. Also added the slide show for the Glitch project page. Now that it's all worked out, the rest should be easier to set up (i.e. the SlideShow for CodePen and WordPress.) But that's for tomorrow...
