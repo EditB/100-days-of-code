@@ -219,3 +219,6 @@ Also, getting much more comfortable using the git command line. Initally I was j
 
 ## R1D60 - 27/2/18
 - Worked on mywebportfolio.tech. Fixed up the little displayed images for the projects on the front page (the wordpress logo took ages to resize so that it gets the folded up effect with the little circle it's in). But it's done. Also added the slide show for the Glitch project page. Now that it's all worked out, the rest should be easier to set up (i.e. the SlideShow for CodePen and WordPress.) But that's for tomorrow...
+
+## R1D61 - 28/2/18
+- Finished the first version of My Web Portfolio.tech. It's working and it looks ok. Perhaps tomorrow I can explore adding a subdomain and create a different WP website for a different look and feel to add to the project...
