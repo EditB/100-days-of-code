@@ -222,3 +222,6 @@ Also, getting much more comfortable using the git command line. Initally I was j
 
 ## R1D61 - 28/2/18
 - Finished the first version of My Web Portfolio.tech. It's working and it looks ok. Perhaps tomorrow I can explore adding a subdomain and create a different WP website for a different look and feel to add to the project...
+
+## R1D62 - 1/3/18
+- Playing with Ruby on Rails today. The MVC structure is pretty similar to Laravel and also to Angular.js
