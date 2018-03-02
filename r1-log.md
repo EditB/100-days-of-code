@@ -225,3 +225,6 @@ Also, getting much more comfortable using the git command line. Initally I was j
 
 ## R1D62 - 1/3/18
 - Playing with Ruby on Rails today. The MVC structure is pretty similar to Laravel and also to Angular.js
+
+## R1D63 - 2/3/18
+- Ruby tutorial (tryruby.org) + Ruby on Rails 5 tutorial (about the framework) via Stackskills. 
