@@ -228,3 +228,6 @@ Also, getting much more comfortable using the git command line. Initally I was j
 
 ## R1D63 - 2/3/18
 - Ruby tutorial (tryruby.org) + Ruby on Rails 5 tutorial (about the framework) via Stackskills. 
+ 
+## R1D64 - 3/3/18
+- Still working through the Ruby on Rails tutorial. It's a pretty easy framework to use, and I've created a todoapp (I've already done a demo app previously). So now I'm gonna create a repository for it here and upload the first version (with a template home, about and help page).
