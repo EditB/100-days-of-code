@@ -231,3 +231,7 @@ Also, getting much more comfortable using the git command line. Initally I was j
  
 ## R1D64 - 3/3/18
 - Still working through the Ruby on Rails tutorial. It's a pretty easy framework to use, and I've created a todoapp (I've already done a demo app previously). So now I'm gonna create a repository for it here and upload the first version (with a template home, about and help page).
+
+## R1D65 - 4/3/18
+- Continued with Ruby on Rails. Doing database work with sqlite (and Model).
+- Also started to read up on Delphi. Might download an evaluation copy, we'll see.
