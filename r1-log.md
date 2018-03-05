@@ -235,3 +235,6 @@ Also, getting much more comfortable using the git command line. Initally I was j
 ## R1D65 - 4/3/18
 - Continued with Ruby on Rails. Doing database work with sqlite (and Model).
 - Also started to read up on Delphi. Might download an evaluation copy, we'll see.
+
+## R1D66 - 5/3/18
+- Continued with Ruby on Rails. Create, Read, Update, Delete via rails console.
