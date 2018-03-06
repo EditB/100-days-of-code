@@ -238,3 +238,7 @@ Also, getting much more comfortable using the git command line. Initally I was j
 
 ## R1D66 - 5/3/18
 - Continued with Ruby on Rails. Create, Read, Update, Delete via rails console.
+
+## R1D67 - 6/3/18
+- Continued with Ruby on Rails. Only spent maybe 40 min on it. Doing embedded ruby in HTML (html.erb) to create a form.
+- Also set up Delphi starters and started to watch a tutorial on how to use it.
