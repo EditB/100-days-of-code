@@ -246,3 +246,7 @@ Also, getting much more comfortable using the git command line. Initally I was j
 ## R1D68 - 7/3/18
 - Continued with Ruby on Rails. The form now saves to the db. Still need to implement the form it will redirect after the save though.
 - Added a HelloWorld project with Delphi
+
+## R1D69 - 8/3/18
+- Continued with Ruby on Rails app.
+- Also went to a Laravel meetup to see how a Laravel app is "glued" together.
