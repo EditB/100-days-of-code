@@ -250,3 +250,7 @@ Also, getting much more comfortable using the git command line. Initally I was j
 ## R1D69 - 8/3/18
 - Continued with Ruby on Rails app.
 - Also went to a Laravel meetup to see how a Laravel app is "glued" together.
+
+## R1D70 - 9/3/18
+- Continued with Ruby on Rails (added index and links to pages to show/edit/return to listing); what we really need is a menu bar....
+- Worked a bit on the Delphi spelling project as well
