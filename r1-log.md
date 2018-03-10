@@ -254,3 +254,7 @@ Also, getting much more comfortable using the git command line. Initally I was j
 ## R1D70 - 9/3/18
 - Continued with Ruby on Rails (added index and links to pages to show/edit/return to listing); what we really need is a menu bar....
 - Worked a bit on the Delphi spelling project as well
+
+## R1D71 - 10/3/18
+- Added a delete function and links to the rails app + did code review on it
+- SPent the whole day @DevopGirls Bootcamp learning AWS
