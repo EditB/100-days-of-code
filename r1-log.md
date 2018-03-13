@@ -258,3 +258,13 @@ Also, getting much more comfortable using the git command line. Initally I was j
 ## R1D71 - 10/3/18
 - Added a delete function and links to the rails app + did code review on it
 - SPent the whole day @DevopGirls Bootcamp learning AWS
+
+## R1D72 - 11/3/18
+- Ruby on Rails; started the blog project
+
+## R1D72 - 12/3/18
+- Had a very busy day. Reviewed AWS.
+
+## R1D73 - 13/3/18
+- Elastisearch training. Setting up Elastisearch on my computer and also did a course at REA on Elastisearch, with lots of hands on experiments.
+
