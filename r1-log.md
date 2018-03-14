@@ -268,3 +268,5 @@ Also, getting much more comfortable using the git command line. Initally I was j
 ## R1D73 - 13/3/18
 - Elastisearch training. Setting up Elastisearch on my computer and also did a course at REA on Elastisearch, with lots of hands on experiments.
 
+## R1D74 - 14/3/18
+- Set up Docker and reading through a tutorial and trying out things on its command line
