@@ -270,3 +270,6 @@ Also, getting much more comfortable using the git command line. Initally I was j
 
 ## R1D74 - 14/3/18
 - Set up Docker and reading through a tutorial and trying out things on its command line
+
+## R1D75 - 15/3/18
+- Did more work on Rails blog
