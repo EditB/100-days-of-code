@@ -273,3 +273,12 @@ Also, getting much more comfortable using the git command line. Initally I was j
 
 ## R1D75 - 15/3/18
 - Did more work on Rails blog
+
+## R1D76 - 16/3/18
+- AWS - mostly re-reading up my notes
+
+## R1D77 - 17/3/18
+- AWS: Set up a serverless S3 bucket website - it was really easy;
+- Also started with the EC2 example, but lots of things are different on my console, so had to change things. Didn't finish this one yet (although did set up the project, but haven't done the AWS CLI config and git credentials...)
+
+
