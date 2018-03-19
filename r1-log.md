@@ -281,4 +281,8 @@ Also, getting much more comfortable using the git command line. Initally I was j
 - AWS: Set up a serverless S3 bucket website - it was really easy;
 - Also started with the EC2 example, but lots of things are different on my console, so had to change things. Didn't finish this one yet (although did set up the project, but haven't done the AWS CLI config and git credentials...)
 
+## R1D78 - 19/3/18
+- Ruby on Rails
 
+## R1D79 - 20/3/18
+- Did Ruby on Rails this morning. I think the tweets and this directory are out of whack again.... Anyway, just following the tweet day number. WIll try to go through the tweets and see where it went wrong. Anywya, don't mind doing an extra day of coding, it's fun!
