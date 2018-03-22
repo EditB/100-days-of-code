@@ -286,3 +286,6 @@ Also, getting much more comfortable using the git command line. Initally I was j
 
 ## R1D79 - 20/3/18
 - Did Ruby on Rails this morning. I think the tweets and this directory are out of whack again.... Anyway, just following the tweet day number. WIll try to go through the tweets and see where it went wrong. Anywya, don't mind doing an extra day of coding, it's fun!
+
+## R1D80 - 21/3/18
+- HTML, CSS, jQuery. Mainly reading code I've written and writing things out to memorize (like commonly used functions etc) so that I can then write it from scratch on a blank sheet should I need it for an interview...
