@@ -281,11 +281,24 @@ Also, getting much more comfortable using the git command line. Initally I was j
 - AWS: Set up a serverless S3 bucket website - it was really easy;
 - Also started with the EC2 example, but lots of things are different on my console, so had to change things. Didn't finish this one yet (although did set up the project, but haven't done the AWS CLI config and git credentials...)
 
-## R1D78 - 19/3/18
+## R1D78 - 18/3/18
 - Ruby on Rails
 
-## R1D79 - 20/3/18
+## R1D79 - 19/3/18
 - Did Ruby on Rails this morning. I think the tweets and this directory are out of whack again.... Anyway, just following the tweet day number. WIll try to go through the tweets and see where it went wrong. Anywya, don't mind doing an extra day of coding, it's fun!
 
-## R1D80 - 21/3/18
+## R1D80 - 20/3/18
+- Ruby on Rails
+
+## R1D81 - 21/3/18
 - HTML, CSS, jQuery. Mainly reading code I've written and writing things out to memorize (like commonly used functions etc) so that I can then write it from scratch on a blank sheet should I need it for an interview...
+
+## R1D82 - 22/3/18
+- HTML CSS jQuery - reviewing Free Code Camp stuff
+
+## R1D83 - 23/3/18
+- Selenium with Java
+
+## R1D84 - 24/3/18
+- Delphi
+- Fixed up the wrong date in this log and added the backlog - can't believe I missed 4 days! Was just too busy to do admin...
