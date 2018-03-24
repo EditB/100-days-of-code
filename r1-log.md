@@ -302,3 +302,7 @@ Also, getting much more comfortable using the git command line. Initally I was j
 ## R1D84 - 24/3/18
 - Delphi
 - Fixed up the wrong date in this log and added the backlog - can't believe I missed 4 days! Was just too busy to do admin...
+
+## R1D85 - 25/3/18
+- Delphi
+- updated gemfile.lock in both of my ruby apps (loofah needed to be updated, but ran the bundle update on the whole lot)
