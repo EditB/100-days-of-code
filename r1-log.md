@@ -306,3 +306,10 @@ Also, getting much more comfortable using the git command line. Initally I was j
 ## R1D85 - 25/3/18
 - Delphi
 - updated gemfile.lock in both of my ruby apps (loofah needed to be updated, but ran the bundle update on the whole lot)
+
+## R1D86 - 26/3/18
+- Trying to set up Kibana and Elastisearch; had to change a permission for a Babel file and now it works locally
+
+## R1D87 - 27/3/18
+- Trying to set up Kibana and Elastisearch via Docker; 
+
