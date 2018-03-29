@@ -313,3 +313,5 @@ Also, getting much more comfortable using the git command line. Initally I was j
 ## R1D87 - 27/3/18
 - Trying to set up Kibana and Elastisearch via Docker; 
 
+## R1D88-9 - 28-9/3/18
+- Pretty much spent most of the time figuring out why Kibana and Elastisearch is not coming up with Docker - they were listed on docker as created containers, but not showing up on localhost. Finally found a doc about forwarding hosts on virtualbox and that really helped. So now it's working on docker. I did delete the local copy of elastisearch, but very likely won't need it anyway. Now that docker toolbox is set up, will just go with it.
