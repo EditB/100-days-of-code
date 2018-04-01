@@ -318,3 +318,10 @@ Also, getting much more comfortable using the git command line. Initally I was j
 
 ## R1D90 - 30/3/18
 - Pracising the Elastisearch1 material on Docker Kibana/Elastisearch
+
+## R1D91 - 31/3/18
+- Pracising the Elasticsearch
+
+## R1D92 - 1/4/18
+- Pracising the Elastisearch
+- Tried to deploy todo app to heroku but it keeps crashing.
