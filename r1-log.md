@@ -323,5 +323,9 @@ Also, getting much more comfortable using the git command line. Initally I was j
 - Pracising the Elasticsearch
 
 ## R1D92 - 1/4/18
-- Pracising the Elastisearch
+- Pracising the Elasticsearch
 - Tried to deploy todo app to heroku but it keeps crashing.
+
+## R1D93 - 2/4/18
+- Pracising Elasticsearch
+- Ruby on Rails (started my recipies project)
