@@ -333,3 +333,7 @@ Also, getting much more comfortable using the git command line. Initally I was j
 ## R1D94 - 3/4/18
 - Set up Heroku (I think it was yesterday or the day before) and deployed todoapp and blog app; before I managed to deploy I had to re-install my rails environment as nothing was working (since - following a heroku doc - installed jruby...). But re-installing rails fixed it and now I can bundle install again.
 - Still working through Elastisearch2; if I try to start up the multi-node though it fails, but simple startup works. Not sure, but looks like based on the log that there's probably memory issues...
+
+## R1D95 - 4/4/18
+- Elasticsearch in the morning; there's a lot of stuff to remember, but getting more comfortable with it
+- Ruby on Rails - added bootstrap to myrecipe app and playing around with styling it.
