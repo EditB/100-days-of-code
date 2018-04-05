@@ -337,3 +337,7 @@ Also, getting much more comfortable using the git command line. Initally I was j
 ## R1D95 - 4/4/18
 - Elasticsearch in the morning; there's a lot of stuff to remember, but getting more comfortable with it
 - Ruby on Rails - added bootstrap to myrecipe app and playing around with styling it.
+
+## R1D96 - 5/4/18
+- Ruby on Rails (still working on the recipe app - changed some styling things and uploaded it to github and heroku)
+- Elasticsearch (finished the course, but it's good to just keep practising it, since now it started to make more sense and I'm actually getting comfortable with it.)
