@@ -341,3 +341,6 @@ Also, getting much more comfortable using the git command line. Initally I was j
 ## R1D96 - 5/4/18
 - Ruby on Rails (still working on the recipe app - changed some styling things and uploaded it to github and heroku)
 - Elasticsearch (finished the course, but it's good to just keep practising it, since now it started to make more sense and I'm actually getting comfortable with it.)
+
+## R1D97 - 6/4/18
+- Ruby on Rails: added a users table to the todoapp and linked it up with the todos table; used the console to add data to it. It's weird how you can't use SQL in Ruby, but have to use Class.method format instead. I do miss good old SQL...
