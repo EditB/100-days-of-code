@@ -347,3 +347,4 @@ Also, getting much more comfortable using the git command line. Initally I was j
 
 ## R1D98 - 7/4/18
 - Just did Roshanjossey/first-contributions and felt really grateful that people like him make an effort to help others build confidence. I think it's really great.
+- Also forked FreeCodeCamp and set it up on my local environment. It's working! So ready to do some development work with it. Testing/bug fixing, whatever comes up. Very exciting!
