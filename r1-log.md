@@ -344,3 +344,6 @@ Also, getting much more comfortable using the git command line. Initally I was j
 
 ## R1D97 - 6/4/18
 - Ruby on Rails: added a users table to the todoapp and linked it up with the todos table; used the console to add data to it. It's weird how you can't use SQL in Ruby, but have to use Class.method format instead. I do miss good old SQL...
+
+## R1D98 - 7/4/18
+- Just did Roshanjossey/first-contributions and felt really grateful that people like him make an effort to help others build confidence. I think it's really great.
