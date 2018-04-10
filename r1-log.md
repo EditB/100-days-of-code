@@ -349,3 +349,10 @@ Also, getting much more comfortable using the git command line. Initally I was j
 - Just did Roshanjossey/first-contributions and felt really grateful that people like him make an effort to help others build confidence. I think it's really great.
 - Also forked FreeCodeCamp and set it up on my local environment. It's working! So ready to do some development work with it. Testing/bug fixing, whatever comes up. Very exciting!
 - Not only that, but I actually fixed my first "CR": Broken link in React Introducing Inline Styles Waypoint #17038
+
+## R1D99 - 8/4/18
+- Javascript (jQuery)
+
+
+## R1D100 - 9/4/18
+- Ruby on Rails
