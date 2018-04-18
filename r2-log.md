@@ -20,3 +20,10 @@ Log
 
 ## R2D6 - 15/4/18
 - Still following the react tdd tutorial and keep creating tests before adding elements/code to fulfill the tests. 
+
+## R2D7-8 - 16-7/4/18
+- React tutorial; also went through some of my older react code to refresh common code patterns.
+
+## R2D9 - 18/4/18
+- React - started to create my own tests and solutions, to add an undelete functionality. 
+
