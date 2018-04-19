@@ -27,3 +27,5 @@ Log
 ## R2D9 - 18/4/18
 - React - started to create my own tests and solutions, to add an undelete functionality. 
 
+## R2D10 - 19/4/18
+- Still working on the undelete functionality for the React project
