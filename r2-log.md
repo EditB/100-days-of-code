@@ -29,3 +29,6 @@ Log
 
 ## R2D10 - 19/4/18
 - Still working on the undelete functionality for the React project
+
+## R2D11 - 20/4/18
+- Still working on the same React project: disabling and enabling buttons depending on the input
