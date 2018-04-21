@@ -32,3 +32,7 @@ Log
 
 ## R2D11 - 20/4/18
 - Still working on the same React project: disabling and enabling buttons depending on the input
+
+## R2D12 - 21/4/18
+- Had a Python workshop today.
+- Also got the React project mostly working; changed the logic a bit, with the button disabling.
