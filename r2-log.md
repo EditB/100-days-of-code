@@ -38,3 +38,7 @@ Log
 - Also got the React project mostly working; changed the logic a bit, with the button disabling.
 - Set up Android Studio and had a look at how to create a simple app
 - Downloaded NetBeans and created a Hello World app in Java
+
+## R2D13 - 22/4/18
+- Styled my react todo app.
+- Deployed it to heroku
