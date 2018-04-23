@@ -42,3 +42,7 @@ Log
 ## R2D13 - 22/4/18
 - Styled my react todo app.
 - Deployed it to heroku
+
+ R2D14 - 23/4/18
+- Playing around with Java
+- Did some coding quizes (triplebyte and w3schools)
