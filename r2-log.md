@@ -43,6 +43,9 @@ Log
 - Styled my react todo app.
 - Deployed it to heroku
 
- R2D14 - 23/4/18
+ ##R2D14 - 23/4/18
 - Playing around with Java
 - Did some coding quizes (triplebyte and w3schools)
+
+##R2D15 - 24/4/18
+- Went back to my old Free Code Camp projects; started a React project called Leaderboard. Originally it's in CodePen, but I started an offline version on my laptop using create-react-app. We'll see how we go.
