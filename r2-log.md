@@ -52,3 +52,6 @@ Log
 
 ## R2D16 - 25/4/18
 - Was reading up on React and writing out some code I can work with later down the track.
+
+## R2D17 - 26/4/18
+- Felt really flat and tired today. So just followed a React tutorial.
