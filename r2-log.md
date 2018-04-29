@@ -63,6 +63,7 @@ Log
 - SheHacksGames2018: figuring out how to use Construct2; Created a basic version on a 2d platform game called MageCat.
 
 ## R2D20 - 29/4/18
-- SheHacksGames2018: finished a working version of MageCat (first level; put it on a looop so that player can keep playing)
+- SheHacksGames2018: finished a working version of MageCat (first level; put it on a looop so that player can keep playing). This was my very first game jam and my very first game programming experience.
+
 
 
