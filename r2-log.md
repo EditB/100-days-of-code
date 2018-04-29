@@ -55,3 +55,14 @@ Log
 
 ## R2D17 - 26/4/18
 - Felt really flat and tired today. So just followed a React tutorial.
+
+## R2D18 - 27/4/18
+- Still tired. React tutorial.
+
+## R2D19 - 28/4/18
+- SheHacksGames2018: figuring out how to use Construct2; Created a basic version on a 2d platform game called MageCat.
+
+## R2D20 - 29/4/18
+- SheHacksGames2018: finished a working version of MageCat (first level; put it on a looop so that player can keep playing)
+
+
