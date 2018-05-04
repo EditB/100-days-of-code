@@ -65,5 +65,20 @@ Log
 ## R2D20 - 29/4/18
 - SheHacksGames2018: finished a working version of MageCat (first level; put it on a looop so that player can keep playing). This was my very first game jam and my very first game programming experience.
 
+## R2D21 - 30/4/18
+- Started a different (superhero) game along similar principles as the MageCat
+
+## R2D22 - 01/5/18
+- Got back to the React (Leaderboard) project
+
+## R2D23 - 02/5/18
+- Added the header and the rows (was using a hardcoded array for now to loop through; still need to implement the API)
+
+## R2D24 - 03/5/18
+- Implemented the API for the React Leaderboard project (now it's getting the data from a website)
+
+## R2D25 - 04/5/18
+- Finished the React Leaderboard project (added the missing sorting functionality). Could still work more on it (like adding a tool tip on the sortable headers), but since it's already fulfilled all the user stories, will just leave it for now.
+
 
 
