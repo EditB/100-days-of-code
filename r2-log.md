@@ -80,5 +80,6 @@ Log
 ## R2D25 - 04/5/18
 - Finished the React Leaderboard project (added the missing sorting functionality). Could still work more on it (like adding a tool tip on the sortable headers), but since it's already fulfilled all the user stories, will just leave it for now.
 
-
+## R2D26-30 - 05-09/5/18
+- Time flies by so fast. I've been busy working on my web portfolio (a wordpress site); based on some feedback (thank you Andrea!), renamed the sections and also did some custom css for the post-it-note look. Found "stray" projects that I linked up. And also implemented the sortable headers and the tooltip for the Leaderboard project. 
 
