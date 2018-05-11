@@ -83,3 +83,5 @@ Log
 ## R2D26-30 - 05-09/5/18
 - Time flies by so fast. I've been busy working on my web portfolio (a wordpress site); based on some feedback (thank you Andrea!), renamed the sections and also did some custom css for the post-it-note look. Found "stray" projects that I linked up. And also implemented the sortable headers and the tooltip for the Leaderboard project. 
 
+## R2D31-32 - 10-11/5/18
+- I was sick but still tried to stick with my portfolio. Just small changes. ALso linked up some articles/posts with my CV.
