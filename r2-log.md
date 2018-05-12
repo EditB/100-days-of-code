@@ -85,3 +85,6 @@ Log
 
 ## R2D31-32 - 10-11/5/18
 - I was sick but still tried to stick with my portfolio. Just small changes. ALso linked up some articles/posts with my CV.
+
+## R2D33 - 12/5/18
+- Fixed up the old TDD-React project (added more styling), and hooked it up with my web portfolio page.
