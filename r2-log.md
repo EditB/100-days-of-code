@@ -88,3 +88,6 @@ Log
 
 ## R2D33 - 12/5/18
 - Fixed up the old TDD-React project (added more styling), and hooked it up with my web portfolio page.
+
+## R2D34 - 13/5/18
+- Went back to Ruby on Rails (recipe project)
