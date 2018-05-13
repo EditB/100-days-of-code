@@ -1,4 +1,4 @@
-# 100DaysOfCode Log - Round 1 - Edit B.
+# 100DaysOfCode Log - Round 2 - Edit B.
 
 The log of my #100DaysOfCode challenge. Started on 10/04/18.
 Log
