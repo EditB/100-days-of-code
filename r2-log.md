@@ -91,3 +91,12 @@ Log
 
 ## R2D34 - 13/5/18
 - Went back to Ruby on Rails (recipe project)
+
+## R2D35 - 14/5/18
+- Deployed an AWS EC2 website (based on DevOpsGirls bootcamp) and hooked it up to my web portfolio. Modified the original website a bit.
+
+## R2D36-37 - 15-16/5/18
+- Sass Mixins (based on free code camp beta version)
+
+## R2D38-41 - 17-20/5/18
+- Working on React Recipe Box (Free Code Camp project on CodeCamp; finally managed to write most of it, althogh the remove button is not yet working, and will need to add an Edit button as well.)
