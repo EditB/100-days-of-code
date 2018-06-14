@@ -99,4 +99,8 @@ Log
 - Sass Mixins (based on free code camp beta version)
 
 ## R2D38-41 - 17-20/5/18
-- Working on React Recipe Box (Free Code Camp project on CodeCamp; finally managed to write most of it, althogh the remove button is not yet working, and will need to add an Edit button as well.)
+- Working on React Recipe Box (Free Code Camp project on CodePen; finally managed to write most of it, althogh the remove button is not yet working, and will need to add an Edit button as well.)
+
+## R2D42-66 - 21/5-14/6/18
+- Did some more work on Recipe Box (on CodePen - hence no saves in here); also spent a good 5 days on a coding challenge (React.js) and started another one using Node.js
+- Also did some work on Free Code Camp (doing mainly React coursework)
