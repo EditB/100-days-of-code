@@ -104,3 +104,13 @@ Log
 ## R2D42-66 - 21/5-14/6/18
 - Did some more work on Recipe Box (on CodePen - hence no saves in here); also spent a good 5 days on a coding challenge (React.js) and started another one using Node.js
 - Also did some work on Free Code Camp (doing mainly React coursework)
+
+## R2D67-99 15/6-15/7/18
+- Node.js: figuring out how to make command line tools
+- Then we went through hard time with the new neighbours and it wasn't good news for coding either.
+- Also had interviews and had to prepare for it. React.js mainly
+- Did some SQL practice for SheLovesData
+- Spent the first week of July catching up with FreeCodeCamp (did the new front end tutorials, like responsive web design and css grid)
+- The second week of July (still going) has been AWS. Getting ready for exams.
+- The proper log is in Twitter, that's why I didn't do the day-to-day rundown.
+
