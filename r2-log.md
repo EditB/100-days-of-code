@@ -114,3 +114,6 @@ Log
 - The second week of July (still going) has been AWS. Getting ready for exams.
 - The proper log is in Twitter, that's why I didn't do the day-to-day rundown.
 
+## R2D100 - 16/7/18
+- Did 3 lots of AWS practice tests (Cloud Practitioner). Finally passing them consistently over 80+%. Should be good enough to take the real one soon.
+- Oh, and finished the second round of 100 days of code! It was much harder this time than the first round. Need a bit of rest.
